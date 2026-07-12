@@ -36,3 +36,4 @@ for fund_name, code in scheme_codes.items():
 
     else:
         print(f"Failed for {fund_name}")
+        
